@@ -5,7 +5,7 @@ name: Auto label Pull Requests
 # **Who does it impact**: Automation that relies on the engineering label.
 
 on:
-  pull_request:
+  pull_request:[![Auto label Pull Requests](https://github.com/kenzodadon/docs/actions/workflows/auto-label-prs.yml/badge.svg?event=create)](https://github.com/kenzodadon/docs/actions/workflows/auto-label-prs.yml)
 
 jobs:
   triage:
