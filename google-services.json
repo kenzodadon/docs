@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197165563692",
+    "project_id": "kenzo-production",
+    "storage_bucket": "kenzo-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197165563692:android:eac2223357ff6d0f363689",
+        "android_client_info": {
+          "package_name": "Com.kenzobeats.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197165563692-57q6q8rpraneikka9u4vmu17e4qjps4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDsrjkz2nTAoS8oRwjgcT0jNWnqsHGdyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197165563692-57q6q8rpraneikka9u4vmu17e4qjps4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
